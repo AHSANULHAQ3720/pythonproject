@@ -6,8 +6,6 @@ Welcome to the Python Projects Repository! This repository is a collection of Py
 - [Introduction](#introduction)
 - [Project Descriptions](#project-descriptions)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This repository serves as a hub for various Python projects, each accompanied by its own set of challenges and learning opportunities. Whether you're new to Python or a seasoned developer, you'll find projects that suit your skill level and provide room for growth.
@@ -18,7 +16,7 @@ This repository serves as a hub for various Python projects, each accompanied by
 - **How to Run:** [Instructions here]
 
 ### 2. Intermediate Python App
-- **Description:** An intermediate-level Python application that dives into more complex topics such as data manipulation or GUI development.
+- **Description:** An intermediate-level Python application that dives into more complex topics such as data manipulation or GUI development/Flas/Django Interfaces.
 - **How to Run:** [Instructions here]
 
 ### 3. Advanced Python App
